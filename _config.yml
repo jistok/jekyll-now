@@ -21,14 +21,15 @@ footer-links:
   email: jacque@istok.org
   facebook: jistok
   flickr:
-  github: barryclark/jekyll-now
+  github: jistok
   instagram: jistok
   linkedin: jistok
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jstok
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/UCx7WWIG646I0INz2Nwk6tEA
+
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
