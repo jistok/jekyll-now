@@ -1,0 +1,6 @@
+---
+layout: post
+title: I'm up and running!
+---
+
+This time around I decided to change things up a bit.  My natural place for doing this was going to be a wordpress site, partially because it's so easy, partially because it's written in php, yes I <i>enjoy</i> php, and partially because I've used it extensively over the past 10 years or so.  Now, I've always been too frugal (read cheap) to actually let someone else host this for me, plus I like learning how to do things - so I've always done it myself.  Over the past few years, given where the market is going and given my relationship with <a href="http://pivotal.io">Pivotal</a>, I have modified my default installation and operations of such a site to leverage a <a href="https://github.com/18F/cf-ex-wordpress.git" cloud foundry oriented deployment</a>.  After forking and cloning this idea, I have deployed it to great success and operations happiness (and the group who is using it knows no difference).  When this idea came around, it afforded me the opportunity to once again look around and see if there was something to learn (i.e. what were the cool kids using now).  So, I settled on <a href="https://github.com/barryclark/jekyll-now">jekyll</a>.  The positives so far are that I can use vim and how lightweight and fast it is.  Time shall determine whether it continues to drive this or not.
